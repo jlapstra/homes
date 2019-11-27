@@ -9,6 +9,9 @@ python3 manage.py runserver
 
 ### Assumptions
 All CSV's come with a first row with the fields listed (like the example)
+With more time, I would have liked to worry about pagination and adding more filtering operations.
+Over a few days, I took about 5 hours (with research) to complete the project.
+
 
 ### API
 
