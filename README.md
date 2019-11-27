@@ -7,6 +7,9 @@ CodingTest
 ### local run
 python3 manage.py runserver
 
+### Assumptions
+All CSV's come with a first row with the fields listed (like the example)
+
 ### API
 
 /api/singlehome/<zillow_id>
